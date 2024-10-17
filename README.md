@@ -1,5 +1,8 @@
 # Conceitos-de-pocos-de-petroleo-e-suas-correlacoes
 
+<h3> <p align="center"> Dados e Machine Learning: Aplicações Estatísticas na Otimização de Perfuração de Poços de Petróleo </p> </h3>
+
+
 ● 1. Objetivo do Projeto: O projeto visa identificar e prever poços de petróleo com características similares, utilizando dados históricos de perfuração para otimizar a tomada de decisões estratégicas nas operações da Mstar Oil. A ideia central é melhorar a eficiência e a segurança dos projetos de perfuração ao correlacionar poços com base em variáveis preditivas.
 
 ● 2. Metodologia: A metodologia envolveu várias etapas:
